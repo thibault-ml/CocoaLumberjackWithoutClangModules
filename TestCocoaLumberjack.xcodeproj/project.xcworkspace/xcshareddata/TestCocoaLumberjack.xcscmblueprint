@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "9B4F1317B47D5C9D410F2AC9B43A9D28AB8197DE",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "9B4F1317B47D5C9D410F2AC9B43A9D28AB8197DE" : 0,
+    "35B5C9A93714EC9BEB56BAE809C5551E5C66E52D" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "7770545D-03E1-4EE8-B46C-ECFFD54FACC3",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "9B4F1317B47D5C9D410F2AC9B43A9D28AB8197DE" : "CocoaLumberjackWithoutClangModules\/",
+    "35B5C9A93714EC9BEB56BAE809C5551E5C66E52D" : "CocoaLumberjackWithoutClangModules\/CocoaLumberjack\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "TestCocoaLumberjack",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "TestCocoaLumberjack.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/CocoaLumberjack\/CocoaLumberjack.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "35B5C9A93714EC9BEB56BAE809C5551E5C66E52D"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/thibault-ml\/CocoaLumberjackWithoutClangModules.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "9B4F1317B47D5C9D410F2AC9B43A9D28AB8197DE"
+    }
+  ]
+}
